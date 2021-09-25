@@ -1,2 +1,1 @@
-# PyMechineLearning
-python机器学习资源库
+# 基于python+numpy实现各种机器学习算法
